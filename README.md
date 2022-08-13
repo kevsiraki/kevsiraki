@@ -1,8 +1,8 @@
 ### Welcome
 
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevsiraki&theme=tokyonight)]
-</p>
+<div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevsiraki&theme=tokyonight)
+</div>
 
 ## Languages and Tools:
 <p align="center">
