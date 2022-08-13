@@ -1,9 +1,9 @@
 # Welcome
 
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevsiraki&theme=tokyonight&layout=compact&exclude_repo=Unity2D-GoFish,kevsiraki" />
-</a>
+<p align="center">
+  <img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kevsiraki&theme=tokyonight&layout=compact&exclude_repo=Unity2D-GoFish,kevsiraki">
+</p>
 ## Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
