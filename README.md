@@ -1,6 +1,6 @@
 # Welcome
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevsiraki&theme=tokyonight&exclude_repo=Unity2D-GoFish,kevsiraki)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevsiraki&theme=tokyonight&layout=compact&exclude_repo=Unity2D-GoFish,kevsiraki)
 
 ## Languages and Tools:
 <p align="center">
